@@ -1,0 +1,125 @@
+[11-Aug-2023 16:06:19 UTC] PHP Warning:  Undefined variable $options in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Aug-2023 16:06:19 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Aug-2023 16:16:16 UTC] Sync process for Gutenberg Blocks has started.
+[11-Aug-2023 16:16:16 UTC] CATEGORY:Importing categories..
+[11-Aug-2023 16:16:17 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[11-Aug-2023 16:16:17 UTC] CATEGORY:Completed category import.
+[11-Aug-2023 16:16:17 UTC] BLOCK: Getting Total Blocks
+[11-Aug-2023 16:16:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[11-Aug-2023 16:16:17 UTC] BLOCK: Requests count 4
+[11-Aug-2023 16:16:17 UTC] BLOCK: Importing request 1 ..
+[11-Aug-2023 16:16:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[11-Aug-2023 16:16:18 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[11-Aug-2023 16:16:18 UTC] BLOCK: Completed request 1
+[11-Aug-2023 16:16:18 UTC] BLOCK: Importing request 2 ..
+[11-Aug-2023 16:16:18 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[11-Aug-2023 16:16:18 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[11-Aug-2023 16:16:18 UTC] BLOCK: Completed request 2
+[11-Aug-2023 16:16:18 UTC] BLOCK: Importing request 3 ..
+[11-Aug-2023 16:16:18 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[11-Aug-2023 16:16:18 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[11-Aug-2023 16:16:18 UTC] BLOCK: Completed request 3
+[11-Aug-2023 16:16:18 UTC] BLOCK: Importing request 4 ..
+[11-Aug-2023 16:16:18 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[11-Aug-2023 16:16:19 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[11-Aug-2023 16:16:19 UTC] BLOCK: Completed request 4
+[11-Aug-2023 16:16:19 UTC] SITE: Getting Total Sites
+[11-Aug-2023 16:16:19 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[11-Aug-2023 16:16:19 UTC] SITE: Request count 2
+[11-Aug-2023 16:16:19 UTC] SITE: Importing request 1 ..
+[11-Aug-2023 16:16:19 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[11-Aug-2023 16:16:19 UTC] SITE: Storing in option ast-block-templates-sites-1
+[11-Aug-2023 16:16:20 UTC] SITE: Completed request 1
+[11-Aug-2023 16:16:20 UTC] SITE: Importing request 2 ..
+[11-Aug-2023 16:16:20 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[11-Aug-2023 16:16:20 UTC] SITE: Storing in option ast-block-templates-sites-2
+[11-Aug-2023 16:16:20 UTC] SITE: Completed request 2
+[11-Aug-2023 16:16:20 UTC] Sync process for Gutenberg Blocks is done.
+[12-Aug-2023 02:55:32 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[12-Aug-2023 02:55:47 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[12-Aug-2023 03:21:47 UTC] PHP Warning:  Undefined variable $options in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[12-Aug-2023 03:21:47 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[12-Aug-2023 06:10:15 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[12-Aug-2023 18:39:39 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[12-Aug-2023 18:42:47 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[12-Aug-2023 18:47:28 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[12-Aug-2023 18:49:08 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[12-Aug-2023 18:49:23 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[12-Aug-2023 19:06:26 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[12-Aug-2023 19:06:46 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[12-Aug-2023 19:10:55 UTC] PHP Warning:  Undefined array key 0 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-image.php on line 40
+[12-Aug-2023 19:10:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-image.php on line 40
+[12-Aug-2023 19:11:06 UTC] PHP Warning:  Undefined array key 0 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-image.php on line 40
+[12-Aug-2023 19:11:06 UTC] PHP Warning:  Undefined array key 1 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-image.php on line 40
+[12-Aug-2023 19:11:32 UTC] PHP Warning:  Undefined array key 0 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-text.php on line 33
+[12-Aug-2023 19:11:32 UTC] PHP Warning:  Undefined array key 1 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-text.php on line 33
+[12-Aug-2023 19:11:37 UTC] PHP Warning:  Undefined array key 0 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-text.php on line 33
+[12-Aug-2023 19:11:37 UTC] PHP Warning:  Undefined array key 1 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-text.php on line 33
+[12-Aug-2023 19:23:24 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[12-Aug-2023 19:23:41 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[12-Aug-2023 19:28:47 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[12-Aug-2023 19:29:51 UTC] PHP Warning:  Undefined array key 0 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-image.php on line 40
+[12-Aug-2023 19:29:51 UTC] PHP Warning:  Undefined array key 1 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-image.php on line 40
+[12-Aug-2023 19:30:38 UTC] PHP Warning:  Undefined array key 0 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-text.php on line 33
+[12-Aug-2023 19:30:38 UTC] PHP Warning:  Undefined array key 1 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-text.php on line 33
+[12-Aug-2023 19:32:57 UTC] PHP Warning:  Undefined array key 0 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-text.php on line 33
+[12-Aug-2023 19:32:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-text.php on line 33
+[12-Aug-2023 19:33:35 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[12-Aug-2023 19:37:35 UTC] PHP Warning:  Undefined array key 0 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-image.php on line 40
+[12-Aug-2023 19:37:35 UTC] PHP Warning:  Undefined array key 1 in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-image.php on line 40
+[13-Aug-2023 07:38:54 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[13-Aug-2023 07:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[13-Aug-2023 07:39:08 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php on line 171
+[13-Aug-2023 07:39:08 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[13-Aug-2023 07:39:08 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[13-Aug-2023 07:41:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[13-Aug-2023 07:41:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[13-Aug-2023 07:41:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 07:41:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 07:41:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 07:41:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 07:41:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 07:41:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 07:41:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 07:41:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 07:53:15 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php on line 171
+[13-Aug-2023 07:53:15 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[13-Aug-2023 07:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[13-Aug-2023 08:02:43 UTC] PHP Warning:  Undefined array key "id" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[13-Aug-2023 08:02:43 UTC] PHP Warning:  Undefined array key "id" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[13-Aug-2023 08:02:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:02:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:02:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:02:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:02:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:02:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:02:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:02:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:07:04 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\widgets.php on line 429
+[13-Aug-2023 08:11:11 UTC] PHP Warning:  Undefined array key "id" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[13-Aug-2023 08:11:11 UTC] PHP Warning:  Undefined array key "id" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[13-Aug-2023 08:11:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:11:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:11:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:11:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:11:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:11:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:11:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:11:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:12:35 UTC] PHP Warning:  Undefined array key "id" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[13-Aug-2023 08:12:35 UTC] PHP Warning:  Undefined array key "id" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+[13-Aug-2023 08:12:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:12:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:12:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:12:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:12:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:12:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:12:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:12:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Aug-2023 08:15:40 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[13-Aug-2023 08:15:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[13-Aug-2023 08:18:19 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php on line 171
+[13-Aug-2023 13:55:24 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[13-Aug-2023 14:09:52 UTC] PHP Warning:  Undefined array key "data" in C:\Users\HP\Local Sites\peb-company\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[14-Aug-2023 13:02:32 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[14-Aug-2023 13:02:32 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
